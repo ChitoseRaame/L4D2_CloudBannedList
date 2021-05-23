@@ -11,16 +11,15 @@ https://github.com/ErikMinekus/sm-ripext
 该插件仅在Sourcemod1.10平台上测试通过      
     
 
-本项目
+本项目为开源项目,修改后的插件再分发时需要附带源码.    
 
     
-API:    
+API(URL区分大小写):    
 ```
 http://bannedlist.nekochocolate.space:2086/get.php
 ```    
-用于提供标准的JSON信息    
-          
+用于提供标准的JSON信息
 ```
-http://bannedlist.nekochocolate.space:2086/BannedList.CFG
+http://bannedlist.nekochocolate.space:2086/BannedList.cfg
 ```    
 用于提供标准的JSON信息(更快)
